@@ -3,6 +3,14 @@
 
 - 🌱 I’m currently learning **Javascript at TripleTen.**
 
+## Project Pitch Videos
+
+Check out these videos, where I describe my project
+and some challenges I faced while building it:
+
+- [First Video Title](ADD_LINK_HERE)
+- [Second Video Title]([ADD_LINK_HERE](https://drive.google.com/file/d/1zTx27HtfNIhtXRdkFjd1P_6_w4FEWXY5/view?usp=sharing))
+
 - 📫 How to reach me **gutierrezmanny13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
