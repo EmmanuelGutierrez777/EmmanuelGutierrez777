@@ -8,7 +8,7 @@
 Check out these videos, where I describe my project
 and some challenges I faced while building it:
 
-- [First Video Title](ADD_LINK_HERE)
+- [Project Spots](https://drive.google.com/file/d/1TTGBTYkNhvpQwDSj3TfVrUrLz5oCp6K-/view?usp=drive_link)
 - [Form Validation and UX Improvements](https://drive.google.com/file/d/1zTx27HtfNIhtXRdkFjd1P_6_w4FEWXY5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
